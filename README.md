@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some of my interests in Web:
+Here are some of my personal interests:
 
 - 💬 Currently learning typescript
 - 💬 Exploring cloud with AWS
