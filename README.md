@@ -5,6 +5,6 @@ Here are some of what I'm currently learning
 - 💬 Currently learning typescript
 - 💬 Exploring cloud with AWS
 - 💬 Trying ORM Tools such as Sequelize
-- 💬 I'm more good at JavaScript
-- 💬 I play valorant and FiveM as a hobby
-- 💬 I love shopping computer parts
+- 💬 More hands on learning in TailwindCSS
+- 💬 Deep diving benefits of choosing microservice to monolith
+- 💬 Queuing tools such as sqs and kafka
