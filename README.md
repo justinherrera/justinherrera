@@ -3,7 +3,7 @@
 ## 🧑‍🦰 Who Am I
 <img src='https://img.shields.io/twitter/follow/Herrera_Jus'>
 
-<img align='right' src='https://user-images.githubusercontent.com/32728675/204072860-3653183d-e232-4a86-9f42-9f8939f8d393.gif' width='200'>
+<img align='right' src='https://media.tenor.com/NxMR5GE5WDEAAAAi/pentol-stiker.gif' width='200'>
 
 Hi, I am Justin Herrera, a Developer from the Philippines. I'm currently working on a crypto mobile platform as a Backend Engineer.
 I have a 3+ years of experience developing web applications using JavaScript and acively exploring on projects that I can work on my free time.
