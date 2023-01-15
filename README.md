@@ -19,7 +19,7 @@ I have a 3+ years of experience developing web applications using JavaScript and
     "Nodejs Developer - 2022 - Present",
     "Web Developer - 2020-2022",
     "JavaScript Developer - 2020",
-    "Backend Developer - 2019-2022", 
+    "Backend Developer - 2019-2020", 
   ],
   "currently_learning": "AWS, Docker, TypeScript",
   "interested_to_learn": "Rust, TRPC, Kotlin"
