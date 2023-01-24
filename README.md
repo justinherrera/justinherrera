@@ -6,7 +6,7 @@
 <img align='right' src='https://media.tenor.com/NxMR5GE5WDEAAAAi/pentol-stiker.gif' width='200'>
 
 Hi, I am Justin Herrera, a Developer from the Philippines. I'm currently working on a crypto mobile platform as a Backend Engineer.
-I have a 3+ years of experience developing web applications using JavaScript and actively exploring on projects that I can work on my free time.
+I have a 4 years of experience developing web applications using JavaScript and actively exploring on projects that I can work on my free time.
 
 ## 📰 About Me:
 
