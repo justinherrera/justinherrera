@@ -5,8 +5,7 @@
 
 <img align='right' src='https://media.tenor.com/NxMR5GE5WDEAAAAi/pentol-stiker.gif' width='200'>
 
-Hi, I am Justin Herrera, a Developer from the Philippines. I'm currently working on a crypto mobile platform as a Backend Engineer.
-I have a 4 years of experience developing web applications using JavaScript and actively exploring on projects that I can work on my free time.
+Hi, I am Justin Herrera, a Developer from the Philippines. I've been a developer from the last 4 years and I'm currently working as a MERN Stack developer at CoDev, I am assigned to work in both front and backend development.
 
 ## 📰 About Me:
 
@@ -16,7 +15,8 @@ I have a 4 years of experience developing web applications using JavaScript and 
   "based_in": "Cavite, PH",
   "work": "Nodejs Developer",
   "experience": [
-    "Nodejs Developer - 2022 - Present",
+    "MERN Stack Developer - 2023 - PRESENT",
+    "Nodejs Developer - 2022 - 2023",
     "Web Developer - 2020-2022",
     "JavaScript Developer - 2020",
     "Backend Developer - 2019-2020", 
