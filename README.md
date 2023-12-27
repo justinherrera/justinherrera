@@ -21,7 +21,7 @@ Hi, I am Justin Herrera, a Developer from the Philippines. I've been a developer
     "JavaScript Developer - 2020",
     "Backend Developer - 2019-2020", 
   ],
-  "currently_learning": "AWS, Docker, TypeScript",
+  "currently_learning": "AWS, Docker, TypeScript, Flutter",
   "interested_to_learn": "Rust, TRPC, Kotlin"
 }
 ```
