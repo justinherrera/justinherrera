@@ -29,7 +29,7 @@ Hi, I am Justin Herrera, a Developer from the Philippines. I've been a developer
 ## 🧑‍💻 Technical Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,ts,nodejs,express,postgres,mongodb,aws,docker,jest" />
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,ts,nodejs,express,postgres,mongodb,aws,docker,jest,supabase,deno" />
   </a>
 </p>
 
