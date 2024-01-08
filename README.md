@@ -50,5 +50,3 @@ Hi, I am Justin Herrera, a Developer from the Philippines. I've been a developer
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-## 💻 Profile Stats
-<img src="https://github-readme-stats.vercel.app/api?username=justinherrera">
