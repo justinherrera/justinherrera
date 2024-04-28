@@ -5,7 +5,7 @@
 
 <img align='right' src='https://media.tenor.com/NxMR5GE5WDEAAAAi/pentol-stiker.gif' width='200'>
 
-Hi, I am Justin Herrera, a Developer from the Philippines. I've been a developer from the last 4 years and I was working as a MERN Stack developer at CoDev, I am assigned to work in both front and backend development.
+Hi, I am Justin Herrera, a Developer from the Philippines. I've been a developer from the last 4 years and I was working as a Full-Stack Developer at CoDev, I am assigned to work in both front and backend development.
 
 ## 📰 About Me:
 
