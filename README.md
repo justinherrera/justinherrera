@@ -15,14 +15,15 @@ Hi, I am Justin Herrera, a Developer from the Philippines. I've been a developer
   "based_in": "Cavite, PH",
   "work": "Nodejs Developer",
   "experience": [
-    "MERN Stack Developer - 2023",
+    "Nodejs Developer - 2023 - Present
+    "Full-Stack Developer - 2023",
     "Nodejs Developer - 2022 - 2023",
     "Web Developer - 2020-2022",
     "JavaScript Developer - 2020",
     "Backend Developer - 2019-2020", 
   ],
   "currently_learning": "AWS, Docker, TypeScript, Flutter",
-  "interested_to_learn": "Rust, TRPC, Kotlin"
+  "interested_to_learn": "Kotlin"
 }
 ```
 
