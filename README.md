@@ -51,9 +51,9 @@ const justinProfile: AdvancedProfile<DeveloperProfile> = {
         { role: Role.NodejsDeveloper, duration: "2023 - Present" },
         { role: Role.FullStackDeveloper, duration: "2023" },
         { role: Role.NodejsDeveloper, duration: "2022 - 2023" },
-        { role: Role.WebDeveloper, duration: "2020-2022" },
+        { role: Role.WebDeveloper, duration: "2020 - 2022" },
         { role: Role.JavaScriptDeveloper, duration: "2020" },
-        { role: Role.BackendDeveloper, duration: "2019-2020" }
+        { role: Role.BackendDeveloper, duration: "2019 - 2020" }
     ],
     currentlyLearning: ["AWS", "Docker"],
     interestedToLearn: ["Kotlin"]
