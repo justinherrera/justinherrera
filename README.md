@@ -64,7 +64,7 @@ const justinProfile: AdvancedProfile<DeveloperProfile> = {
 ## 🧑‍💻 Technical Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,vite,css,tailwind,nodejs,deno,express,ts,git,postgres,mongodb,sequelize,prisma,jest,kafka,aws,supabase,docker,githubactions,nginx" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,vite,css,tailwind,nodejs,deno,express,ts,git,postgres,mongodb,sequelize,prisma,jest,kafka,aws,supabase,docker,githubactions,nginx" />
   </a>
 </p>
 
