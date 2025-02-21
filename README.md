@@ -9,57 +9,8 @@ Hi, I am Justin Herrera, I am a dedicated developer with 5 years of professional
 Throughout my career, I have had the opportunity to work on a diverse range of projects, including cryptocurrency platforms, US stocks applications, and banking systems. 
 My expertise extends to both front-end and back-end development, though I am most passionate about creating and designing a backend system.
 
-Currently, I am exploring the exciting field of cloud technologies particularly in deploying a containerized app and orchestration with Kubernetes.
+Currently, I am exploring the exciting field of cloud technologies particularly in containerization and orchestration with Kubernetes.
 
-
-## 📰 About Me:
-
-```typescript
-enum Role {
-    NodejsDeveloper = "Nodejs Developer",
-    FullStackDeveloper = "Full-Stack Developer",
-    WebDeveloper = "Web Developer",
-    JavaScriptDeveloper = "JavaScript Developer",
-    BackendDeveloper = "Backend Developer"
-}
-
-type Duration = `${number} - ${number | "Present" }` | `${number}`;
-
-interface Experience {
-    role: Role;
-    duration: Duration;
-}
-
-interface DeveloperProfile {
-    name: string;
-    basedIn: string;
-    work: Role;
-    experience: Experience[];
-    currentlyLearning: string[];
-    interestedToLearn: string[];
-}
-
-type AdvancedProfile<T extends DeveloperProfile> = {
-    [K in keyof T]: T[K];
-};
-
-const justinProfile: AdvancedProfile<DeveloperProfile> = {
-    name: "Justin",
-    basedIn: "Laguna, PH",
-    work: Role.NodejsDeveloper,
-    experience: [
-        { role: Role.NodejsDeveloper, duration: "2023 - Present" },
-        { role: Role.FullStackDeveloper, duration: "2023" },
-        { role: Role.NodejsDeveloper, duration: "2022 - 2023" },
-        { role: Role.WebDeveloper, duration: "2020 - 2022" },
-        { role: Role.JavaScriptDeveloper, duration: "2020" },
-        { role: Role.BackendDeveloper, duration: "2019 - 2020" }
-    ],
-    currentlyLearning: ["AWS", "Docker"],
-    interestedToLearn: ["Kotlin"]
-};
-
-```
 
 ## 🧑‍💻 Technical Skills
 <p align="center">
